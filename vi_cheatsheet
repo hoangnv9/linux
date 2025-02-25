@@ -1,0 +1,7 @@
+vi cheatsheet
+1. select multiple lines
+  shift + V
+  after that moving the up/down key on the keyboard to select lines
+2. move the selected lines to the left or right
+using < (shift + ,) to move selected lines to the left
+using > (shift + .) to move selected lines to the right
