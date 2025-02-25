@@ -3,5 +3,13 @@ vi cheatsheet
   shift + V
   after that moving the up/down key on the keyboard to select lines
 2. move the selected lines to the left or right
-using < (shift + ,) to move selected lines to the left
-using > (shift + .) to move selected lines to the right
+  using < (shift + ,) to move selected lines to the left
+  using > (shift + .) to move selected lines to the right
+
+3. go to the specific line
+  n + G to go to line n. e.g. "20 G" -> go to line 20
+
+4. go to end of line
+  $ will go to end of line
+5. go to beginning of the line
+  ^ will go to beginning of the line
